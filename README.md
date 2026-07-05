@@ -4,11 +4,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harishgnaik0201&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🚀 I'm currently learning **Web Development and Programming Fundamentals**
-- 🛠️ I'm currently working on **[Project Name](https://github.com/harishgnaik0201)** *(link your repo here)*
-- 📄 Check out my resume here - [My Resume](#) *(add your resume link)*
+- 🎓 Currently a student, learning **Web Development and Programming Fundamentals**
 - 💻 All of my projects are available on [GitHub](https://github.com/harishgnaik0201)
-- 🎥 I regularly upload videos on [My YouTube Channel](#) *(optional — remove if not applicable)*
 - 💬 Ask me about **Python, JavaScript, Web Development, Git**
 - 📫 Reach out to me at [harishgnaik0201@gmail.com](mailto:harishgnaik0201@gmail.com)
 
@@ -16,7 +13,7 @@
 
 ## GitHub Stats
 
-![Chandan Gowda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishgnaik0201&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishgnaik0201&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishgnaik0201&layout=compact&theme=dark&hide_border=true)
 
@@ -40,9 +37,6 @@
 ## Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="mailto:harishgnaik0201@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
