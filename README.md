@@ -12,7 +12,7 @@
 🔭 I'm currently learning and building my skills as a student
 🌱 Currently exploring Web Development and Programming Fundamentals
 💡 I'm eager to collaborate on open-source and learning projects
-📫 How to reach me: your-email@example.com
+📫 How to reach me: harishgnaik0201@gmail.com
 ⚡ Fun fact: I love turning ideas into code!
 
 
