@@ -1,25 +1,30 @@
-<h1 align="center">Hi 👋, I'm Harish G Naik</h1>
-<h3 align="center">A passionate Student & Aspiring Software Developer</h3>
+Hi 👋, I'm Harish Naik G
 
-<p align="center">
-  <a href="https://github.com/harishgnaik0201">
-    <img src="https://komarev.com/ghpvc/?username=harishgnaik0201&label=Profile%20Views&color=0e75b6&style=flat" alt="harishgnaik0201" />
-  </a>
-</p>
+A passionate student from India 🇮🇳
 
----
+Show Image
 
-### 🎓 About Me
 
-- 🔭 I'm currently **learning** and building my skills as a student
-- 🌱 Currently exploring **Web Development** and **Programming Fundamentals**
-- 💡 I'm eager to collaborate on **open-source** and **learning projects**
-- 📫 How to reach me: **harishgnaik0201@gmail.com**
-- ⚡ Fun fact: I love turning ideas into code!
+🚀 I'm currently learning Web Development and Programming Fundamentals
+🛠️ I'm currently working on Project Name (link your repo here)
+📄 Check out my resume here - My Resume (add your resume link)
+💻 All of my projects are available on GitHub
+🎥 I regularly upload videos on My YouTube Channel (optional — remove if not applicable)
+💬 Ask me about Python, JavaScript, Web Development, Git
+📫 Reach out to me at harishgnaik0201@gmail.com
 
----
 
-### 🛠️ Languages & Tools
+
+GitHub Stats
+
+Show Image
+
+Show Image
+
+Show Image
+
+
+Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -30,22 +35,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishgnaik0201&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishgnaik0201&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishgnaik0201&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-### 🌐 Connect with Me
+Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
@@ -59,6 +49,4 @@
   </a>
 </p>
 
----
-
-<p align="center">⭐️ Thanks for visiting my profile! Feel free to explore my repositories.</p>
+⭐️ Thanks for visiting my profile!
